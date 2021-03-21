@@ -1,0 +1,18 @@
+{
+  "name": "mygallery",
+  "wallet": "0x1010595F96Ab62b31BfeAc411Ec5f8f60DB5DC23",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "build": "rodeo build",
+    "dev": "rodeo dev",
+    "tokens": "rodeo tokens",
+    "ipfs": "rodeo ipfs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@giddyup/cli": "^0.0.21"
+  }
+}
